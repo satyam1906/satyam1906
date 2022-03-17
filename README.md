@@ -2,12 +2,12 @@
 ## I'm a Programmer, Developer and Student🧑‍🎓
 
 
-- 🔭 I’m currently working with React.JS and Express ⚛
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on something cool 😎
+- 🌱 I’m currently learning React ⚛ 
 - 👯 Looking forward to collaborating with other developers <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/Him 
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
-- ⚡ Fun fact: I love to travel, music, poetry and Linux 😎
+- 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
+- ⚡ Fun fact: If you put ketchup on pizza, You are most likely to be hated by 100% of me !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1906&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1906" /> </p>
 
