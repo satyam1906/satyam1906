@@ -25,7 +25,7 @@
 <h4>GitHub Stats :<h4>
 <hr>
  <p>
-<img width="48%" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true" alt="satyam1906" /></p>
+https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true</p>
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1906&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="satyam1906" /></p>
