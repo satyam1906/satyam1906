@@ -7,7 +7,7 @@
 - 👯 Looking forward to collaborating with other developers <!-- - 📫 How to reach me: ... -->
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
 - 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
-- ⚡ Fun fact: If you put ketchup on pizza, You are most likely to be hated by 100% of me !
+- ⚡ Fun fact: If you put ketchup on pizza🍕, You are most likely to be hated by 100% of me 😖
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam1906&label=Profile%20views&color=0e75b6&style=flat" alt="satyam1906" /> </p>
 
