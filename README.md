@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h4>GitHub Stats :<h4>
 <hr>
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam1906&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" alt="satyam1906" /></p>
+<img width="48%" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="satyam1906" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1906&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="satyam1906" /></p>
 
