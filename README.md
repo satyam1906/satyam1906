@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React.JS ⚛
+- 🔭 I’m currently working with React.JS and Express ⚛
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to collaborating with other developers <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him 
