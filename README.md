@@ -26,6 +26,7 @@
 <hr>
  <p>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam1906&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" alt="satyam1906" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam1906&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="satyam1906" /></p>
 
