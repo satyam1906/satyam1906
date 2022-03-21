@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning React ⚛ 
+- 🌱 I’m currently learning React ⚛ and Express
 - 👯 Looking forward to collaborating with other developers <!-- - 📫 How to reach me: ... -->
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
 - 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
