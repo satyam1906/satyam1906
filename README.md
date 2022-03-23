@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on something cool 😎
 - 🌱 I’m currently learning React ⚛ and Express
-- 👯 Looking forward to collaborating with other developers <!-- - 📫 How to reach me: ... -->
+- 👯 Looking forward to collaborating with other developers 
+- 📫 Reach me at: satyam9322@gmail.com | satyam.209302213@muj.manipal.edu 
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
 - 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
 - ⚡ Fun fact: If you put ketchup on pizza🍕, You are most likely to be hated by 100% of me 😖
