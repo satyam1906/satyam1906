@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning React ⚛ and Express
+- 🌱 I’m currently learning Data Science and Machine Learning 
 - 👯 Looking forward to collaborating with other developers 
-- 📫 Reach me at: satyam9322@gmail.com | satyam.209302213@muj.manipal.edu 
-- 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
+- 📫 Reach me at: satyam9322@gmail.com  
+- 🥅 2023 Goals: Be Better at Deep Learning and at my best in other domains as well.
 - 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
 - ⚡ Fun fact: If you put ketchup on pizza🍕, You are most likely to be hated by 100% of me 😖
 
